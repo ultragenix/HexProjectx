@@ -1,0 +1,14 @@
+list of csv for hex action house:
+http://dl.hex.gameforge.com/auctionhouse/index.txt
+
+forum talk about daily auction house data:
+https://forums.cryptozoic.com/showthread.php?t=40371
+
+hex card search engine (with output form: csv, sql):
+http://doc-x.net/hex/
+
+hex tcgbrowser API Sync:
+http://hex.tcgbrowser.com/tools/sync/
+
+Importer des données csv dans une base MySQL:
+http://www.chicoree.fr/w/Importer_des_donn%C3%A9es_dans_une_base_MySQL
